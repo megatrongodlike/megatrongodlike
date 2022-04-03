@@ -1,8 +1,8 @@
 - 👋 Hi, I’m JAYANT MEHRA
 - 👀 I’m interested in Artificial Intelligence,ML,python and C++
 - 🌱 I’m currently learning R and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .. .
+- 💞️ I’m looking to collaborate on python ML projects.
+- 📫 How to reach me .. . Instagram-@redeyevfx
 
 <!---
 megatrongodlike/megatrongodlike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
