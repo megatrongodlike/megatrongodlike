@@ -1,10 +1,11 @@
-- 👋 Hi, I’m JAYANT MEHRA
-- 👀 I’m interested in Artificial Intelligence,ML,python and C++
-- 🌱 I’m currently learning R and SQL
-- 💞️ I’m looking to collaborate on python ML projects.
-- 📫 How to reach me .. . Instagram-@redeyevfx
+👋 Hi, I’m JAYANT MEHRA, a seasoned SOC (Security Operations Center) Analyst dedicated to fortifying cybersecurity.
 
-<!---
-megatrongodlike/megatrongodlike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 My expertise spans across Azure honeypots, Active Directory security, and cloud-based SIEM tools, where I employ my skills to safeguard digital landscapes.
+
+🌱 Continuously advancing my knowledge, I'm currently deepening my proficiency in R and SQL, enriching my analytical capabilities for threat detection and incident response.
+
+💼 As a professional, I thrive on collaboration and actively seek opportunities to contribute to cybersecurity projects, particularly in the realm of cloud SIEM solutions.
+
+📫 Stay updated on cybersecurity insights and engage in meaningful discussions by connecting with me on Instagram: [@redeyevfx](https://www.instagram.com/redeyevfx/).
+
+🌐 Let's enhance cybersecurity together and build a resilient digital future.
